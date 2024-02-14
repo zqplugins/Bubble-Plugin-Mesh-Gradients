@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "mobile",
+        "1": "productivity",
+        "2": "technical",
+        "3": "artificial intelligence (AI)",
+        "4": "media"
+    },
+    "demo_page": "https://mesh-gradients.bubbleapps.io/version-test",
+    "description": "Extremely lightweight element to add beautiful mesh gradients to your app.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1706906159268x527092975686408000/Mesh%20Gradients.webp",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Mesh Gradients",
+    "plugin_instructions": "This plugin is dead simple to setup.\n\n1️⃣ Add the 'Mesh Gradient' element to your page. It's a single element that you can place anywhere on the page.\n\n2️⃣ Adjust the settings to your liking, such as the base color, amount of colors, rounding or opacity of the element.\n\nNow sit back and enjoy your stunning gradient 🍭",
+    "sa_node_version": 18
+}
