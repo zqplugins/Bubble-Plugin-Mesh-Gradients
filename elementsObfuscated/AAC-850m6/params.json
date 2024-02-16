@@ -1,0 +1,56 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 96,
+        "width": 96
+    },
+    "display": "Mesh Gradient",
+    "fields": {
+        "AAD": {
+            "caption": "🍭 Gradient",
+            "editor": "Label",
+            "name": "info_title",
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "Color Stops",
+            "default_val": 10,
+            "doc": "The amount of colors to use in the gradient.",
+            "editor": "DynamicValue",
+            "in_style": true,
+            "name": "color_stops",
+            "optional": false,
+            "rank": 2,
+            "value": "number"
+        },
+        "AAF": {
+            "caption": "Base Color",
+            "doc": "Provide the color that your gradient will be based on.",
+            "editor": "Color",
+            "in_style": true,
+            "name": "base_color",
+            "optional": false,
+            "rank": 1
+        },
+        "AAG": {
+            "caption": "Color Key",
+            "default_val": 5,
+            "doc": "Specify a number to randomize your gradient. The same number will generate the same gradient every time. ",
+            "editor": "DynamicValue",
+            "name": "color_key",
+            "optional": false,
+            "rank": 3,
+            "value": "number"
+        }
+    },
+    "icon": "ion-ios-color-wand",
+    "property_applications": {
+        "Border": true,
+        "BoxShadow": true,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    }
+}
